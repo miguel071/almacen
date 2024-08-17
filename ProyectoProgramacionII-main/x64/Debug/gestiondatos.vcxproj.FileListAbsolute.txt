@@ -1,0 +1,60 @@
+C:\Cod_C++\gestiondatos\x64\Debug\gestiondatos.vcxproj.AssemblyReference.cache
+C:\Cod_C++\gestiondatos\x64\Debug\gestiondatos.vcxproj.SuggestedBindingRedirects.cache
+C:\Cod_C++\gestiondatos\x64\Debug\gestiondatos.vcxproj.GenerateResource.cache
+C:\Cod_C++\gestiondatos\x64\Debug\gestiondatos.exe
+C:\Cod_C++\gestiondatos\x64\Debug\gestiondatos.crear.resources
+C:\Cod_C++\gestiondatos\x64\Debug\gestiondatos.inicio.resources
+C:\Cod_C++\gestiondatos\x64\Debug\gestiondatos.sesion.resources
+C:\Cod_C++\gestiondatos\x64\Debug\gestiondatos.consulta.resources
+C:\Cod_C++\gestiondatos\x64\Debug\gestiondatos.accesorios.resources
+C:\Cod_C++\gestiondatos\x64\Debug\gestiondatos.cocina.resources
+C:\Cod_C++\gestiondatos\x64\Debug\gestiondatos.electronicos.resources
+C:\Cod_C++\gestiondatos\x64\Debug\gestiondatos.herramientas.resources
+C:\Cod_C++\gestiondatos\x64\Debug\gestiondatos.hogar.resources
+C:\Cod_C++\gestiondatos\x64\Debug\gestiondatos.cliente.resources
+C:\Cod_C++\gestiondatos\x64\Debug\gestiondatos.validacion.resources
+C:\Cod_C++\gestiondatos\x64\Debug\gestiondatos.ventas01.resources
+C:\Cod_C++\gestiondatos\x64\Debug\gestiondatos.ventas02.resources
+C:\Cod_C++\gestiondatos\x64\Debug\gestiondatos.ventas03.resources
+C:\Cod_C++\gestiondatos\x64\Debug\gestiondatos.ventas04.resources
+C:\Cod_C++\gestiondatos\x64\Debug\gestiondatos.ventas05.resources
+C:\Users\johnychiroy\Desktop\Nueva carpeta\gestiondatos\x64\Debug\gestiondatos.vcxproj.AssemblyReference.cache
+C:\Users\johnychiroy\Desktop\Nueva carpeta\gestiondatos\x64\Debug\gestiondatos.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\johnychiroy\Desktop\Nueva carpeta\gestiondatos\x64\Debug\gestiondatos.accesorios.resources
+C:\Users\johnychiroy\Desktop\Nueva carpeta\gestiondatos\x64\Debug\gestiondatos.cliente.resources
+C:\Users\johnychiroy\Desktop\Nueva carpeta\gestiondatos\x64\Debug\gestiondatos.cocina.resources
+C:\Users\johnychiroy\Desktop\Nueva carpeta\gestiondatos\x64\Debug\gestiondatos.consulta.resources
+C:\Users\johnychiroy\Desktop\Nueva carpeta\gestiondatos\x64\Debug\gestiondatos.electronicos.resources
+C:\Users\johnychiroy\Desktop\Nueva carpeta\gestiondatos\x64\Debug\gestiondatos.herramientas.resources
+C:\Users\johnychiroy\Desktop\Nueva carpeta\gestiondatos\x64\Debug\gestiondatos.hogar.resources
+C:\Users\johnychiroy\Desktop\Nueva carpeta\gestiondatos\x64\Debug\gestiondatos.crear.resources
+C:\Users\johnychiroy\Desktop\Nueva carpeta\gestiondatos\x64\Debug\gestiondatos.inicio.resources
+C:\Users\johnychiroy\Desktop\Nueva carpeta\gestiondatos\x64\Debug\gestiondatos.sesion.resources
+C:\Users\johnychiroy\Desktop\Nueva carpeta\gestiondatos\x64\Debug\gestiondatos.validacion.resources
+C:\Users\johnychiroy\Desktop\Nueva carpeta\gestiondatos\x64\Debug\gestiondatos.ventas01.resources
+C:\Users\johnychiroy\Desktop\Nueva carpeta\gestiondatos\x64\Debug\gestiondatos.ventas02.resources
+C:\Users\johnychiroy\Desktop\Nueva carpeta\gestiondatos\x64\Debug\gestiondatos.ventas03.resources
+C:\Users\johnychiroy\Desktop\Nueva carpeta\gestiondatos\x64\Debug\gestiondatos.ventas04.resources
+C:\Users\johnychiroy\Desktop\Nueva carpeta\gestiondatos\x64\Debug\gestiondatos.ventas05.resources
+C:\Users\johnychiroy\Desktop\Nueva carpeta\gestiondatos\x64\Debug\gestiondatos.vcxproj.GenerateResource.cache
+C:\Users\johnychiroy\Desktop\Nueva carpeta\gestiondatos\x64\Debug\gestiondatos.exe
+C:\gestiondatos\x64\Debug\gestiondatos.vcxproj.AssemblyReference.cache
+C:\gestiondatos\x64\Debug\gestiondatos.vcxproj.SuggestedBindingRedirects.cache
+C:\gestiondatos\x64\Debug\gestiondatos.accesorios.resources
+C:\gestiondatos\x64\Debug\gestiondatos.cliente.resources
+C:\gestiondatos\x64\Debug\gestiondatos.cocina.resources
+C:\gestiondatos\x64\Debug\gestiondatos.consulta.resources
+C:\gestiondatos\x64\Debug\gestiondatos.electronicos.resources
+C:\gestiondatos\x64\Debug\gestiondatos.herramientas.resources
+C:\gestiondatos\x64\Debug\gestiondatos.hogar.resources
+C:\gestiondatos\x64\Debug\gestiondatos.crear.resources
+C:\gestiondatos\x64\Debug\gestiondatos.inicio.resources
+C:\gestiondatos\x64\Debug\gestiondatos.sesion.resources
+C:\gestiondatos\x64\Debug\gestiondatos.validacion.resources
+C:\gestiondatos\x64\Debug\gestiondatos.ventas01.resources
+C:\gestiondatos\x64\Debug\gestiondatos.ventas02.resources
+C:\gestiondatos\x64\Debug\gestiondatos.ventas03.resources
+C:\gestiondatos\x64\Debug\gestiondatos.ventas04.resources
+C:\gestiondatos\x64\Debug\gestiondatos.ventas05.resources
+C:\gestiondatos\x64\Debug\gestiondatos.vcxproj.GenerateResource.cache
+C:\gestiondatos\x64\Debug\gestiondatos.exe
